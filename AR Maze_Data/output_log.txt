@@ -1,0 +1,98 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     880 MB
+    Driver:   8.15.10.2900
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Project&Papaer Presentation\AR\AR Maze\Built\Windows\AR Maze_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Project&Papaer Presentation\AR\AR Maze\Built\Windows\AR Maze_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Project&Papaer Presentation\AR\AR Maze\Built\Windows\AR Maze_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Project&Papaer Presentation\AR\AR Maze\Built\Windows\AR Maze_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Project&Papaer Presentation\AR\AR Maze\Built\Windows\AR Maze_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Project&Papaer Presentation\AR\AR Maze\Built\Windows\AR Maze_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Project&Papaer Presentation\AR\AR Maze\Built\Windows\AR Maze_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Project&Papaer Presentation\AR\AR Maze\Built\Windows\AR Maze_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Project&Papaer Presentation\AR\AR Maze\Built\Windows\AR Maze_Data\Managed\Vuforia.UnityExtensions.dll (this message is harmless)
+Loading E:\Project&Papaer Presentation\AR\AR Maze\Built\Windows\AR Maze_Data\Managed\Vuforia.UnityExtensions.dll into Unity Child Domain
+- Completed reload, in  0.215 seconds
+Platform assembly: E:\Project&Papaer Presentation\AR\AR Maze\Built\Windows\AR Maze_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Project&Papaer Presentation\AR\AR Maze\Built\Windows\AR Maze_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on VuforiaAbstractBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+OnLevelWasLoaded was found on VuforiaBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 376)
+
+desktop: 1366x768 40Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.381005 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Vuforia initialization successful
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable vuforia_maze lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not initialize the tracker.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Dataset image_targets could not be loaded and cannot be activated.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StartVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating a Mono Camera Configuration (Check for reflection)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: b68 -> priority: 1 
+  Thread -> id: 120c -> priority: 1 
+StopVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StartVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trackable vuforia_maze lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StopVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
